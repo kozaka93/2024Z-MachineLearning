@@ -7,10 +7,10 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
 ### Terminy i tematy zajęć 
 <div class="tg-wrap"><table><tbody>
   <tr>
-    <td>#</td>
-    <td>DATA</td>
-    <td>LABORATORIUM</td>
-    <td>SKŁADOWA</td>
+     <th>#</th>
+    <th>DATA</th>
+    <th>LABORATORIUM</th>
+    <th>SKŁADOWA</th>
   </tr>
   <tr>
     <td>1</td>
@@ -57,7 +57,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>8</td>
     <td>20.11</td>
-    <td>Naiwny Bayes, K najbliższych sąsiadów (kNN) <br>Projekt - motywacja, opis, tematyka</td>
+    <td>Naiwny Bayes, K najbliższych sąsiadów (kNN) <br><i>Projekt - motywacja, opis, tematyka</i></td>
     <td>PD2 (15p)</td>
   </tr>
   <tr>
