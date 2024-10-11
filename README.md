@@ -34,7 +34,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>4</td>
     <td>23.10</td>
     <td>Regresja logistyczna</td>
-    <td>PD1 (15p)</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/homeworks/homework1">PD1</a> (15p)</td>
   </tr>
   <tr>
     <td>5</td>
