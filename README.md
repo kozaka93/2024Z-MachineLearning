@@ -45,7 +45,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>6</td>
     <td>06.11</td>
-    <td>Regularyzjacja regresji liniowej 2, SVM</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/labs/lab06">Regularyzjacja regresji liniowej 2, SVM</a></td>
     <td></td>
   </tr>
   <tr>
