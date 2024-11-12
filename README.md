@@ -51,7 +51,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>7</td>
     <td>13.11</td>
-    <td>LDA, QDA</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/labs/lab07">LDA, QDA</a></td>
     <td></td>
   </tr>
   <tr>
