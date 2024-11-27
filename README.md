@@ -88,7 +88,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>13</td>
     <td>15.01</td>
     <td>Prezentacja wyników projektu</td>
-    <td>P (35p)</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/project">P</a> (35p)</td>
   </tr>
   <tr>
     <td>14</td>
