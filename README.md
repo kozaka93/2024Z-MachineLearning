@@ -81,7 +81,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>12</td>
     <td>18.12</td>
-    <td>Sieci neuronowe</td>
+    <td>Analiza skupień: k-średnich</td>
     <td></td>
   </tr>
   <tr>
@@ -93,14 +93,14 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>14</td>
     <td>22.01</td>
-    <td>Analiza skupień: k-średnich</td>
-    <td></td>
+    <td>Analiza skupień: metody hierarchiczne</td>
+    <td>PD3 (15p)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>29.01</td>
-    <td>Analiza skupień: metody hierarchiczne</td>
-    <td>PD3 (15p)</td>
+    <td>Sieci neuronowe</td>
+    <td></td>
   </tr>
 </tbody></table></div>
 
