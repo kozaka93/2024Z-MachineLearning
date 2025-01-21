@@ -87,13 +87,13 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>13</td>
     <td>15.01</td>
-    <td>Prezentacja wyników projektu</td>
+    <td><i>Prezentacja wyników projektu</i></td>
     <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/project">P</a> (35p)</td>
   </tr>
   <tr>
     <td>14</td>
     <td>22.01</td>
-    <td>Analiza skupień: metody hierarchiczne</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/labs/lab14">Analiza skupień: metody hierarchiczne</a></td>
     <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/homeworks/homework3">PD3</a> (15p)</td>
   </tr>
   <tr>
