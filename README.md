@@ -99,7 +99,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
   <tr>
     <td>15</td>
     <td>29.01</td>
-    <td>Sieci neuronowe</td>
+    <td><a href="https://github.com/kozaka93/2024Z-MachineLearning/tree/main/labs/lab15">Sieci neuronowe</a></td>
     <td></td>
   </tr>
 </tbody></table></div>
